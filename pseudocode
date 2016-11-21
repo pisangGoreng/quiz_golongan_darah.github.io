@@ -1,0 +1,8 @@
+1. SIMPAN data nama & golongan darah yang dalam variabel
+2. BUAT variabel output, untuk menampilkan hasil quiz
+3. BUAT array data_pengunjung, lalu SIMPAN data nama & golongan darah ke dalam array tersebut
+4. BUAT 4 function dengan parameter nama
+5. Di dalam function ada sebuah IF untuk mengetahui apakah USER sudah mengisi nama atau belum.
+6. Jika USER belum mengisi nama, maka akan muncul "Silahkan isi nama kamu terlebih dahulu"
+7. Jika USER sudah mengisi nama, memilih golongan darah & meng klik tombol "cek sekarang",
+   maka variabel output akan menampilkan hasil sifat golongan darah berdasarkan golongan darah USER

@@ -1,0 +1,13 @@
+body {
+    background-image: url(image/background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    float: inherit;
+    font-family: "Courier", serif;
+    margin: 20px;
+    padding: 40px;
+}
+ h1 {
+    background-color: #FFFF00;
+}
+
